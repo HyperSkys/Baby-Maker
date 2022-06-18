@@ -24,7 +24,7 @@ public class DialogService implements InputService {
             return scanner.nextInt();
         } catch (InputMismatchException e) {
             System.out.println("The users input failed to map to a variable.");
-            System.exit(0);
+            System.exit(420);
         }
 
         return null;
@@ -41,7 +41,7 @@ public class DialogService implements InputService {
 
             default:
                 System.out.println("The users input failed to map to a variable.");
-                System.exit(0);
+                System.exit(420);
         }
 
         return null;
@@ -61,7 +61,7 @@ public class DialogService implements InputService {
 
             default:
                 System.out.println("The users input failed to map to a variable.");
-                System.exit(0);
+                System.exit(420);
         }
 
         return null;
@@ -81,7 +81,7 @@ public class DialogService implements InputService {
 
             default:
                 System.out.println("The users input failed to map to a variable.");
-                System.exit(0);
+                System.exit(420);
         }
 
         return null;
