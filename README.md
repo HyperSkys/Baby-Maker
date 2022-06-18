@@ -1,4 +1,4 @@
-# Baby Maker [v1.0.0-STABLE]
+# Baby Maker [v2.0.0-RELEASE]
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![GitHub](https://img.shields.io/github/languages/code-size/HyperSkys/Baby-Maker?color=cyan&label=Size&labelColor=000000&logo=GitHub&style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/HyperSkys/Baby-Maker?color=violet&logo=GitHub&labelColor=000000&style=for-the-badge)
