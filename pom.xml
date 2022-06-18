@@ -6,7 +6,7 @@
 
     <groupId>dev.hyperskys</groupId>
     <artifactId>BabyMaker</artifactId>
-    <version>1.0.0-STABLE</version>
+    <version>2.0.0-RELEASE</version>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
