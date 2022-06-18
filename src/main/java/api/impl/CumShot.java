@@ -150,7 +150,7 @@ public class CumShot {
                     return;
                 }
 
-                System.out.println(owner + " you know alien men can't get pregnant right?");
+                System.out.println(owner + " you know this is PRIDEFUL so WOMEN are banned?!");
                 System.exit(69);
                 break;
 

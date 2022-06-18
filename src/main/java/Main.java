@@ -31,5 +31,9 @@ public class Main {
 
         CumShot cumShot = new CumShot(name, spermCount, target, location, color);
         cumShot.shoot();
+
+        System.out.println("Please press ENTER to redo this application.");
+        input.nextString();
+        main(args);
     }
 }
