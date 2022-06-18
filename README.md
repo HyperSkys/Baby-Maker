@@ -23,5 +23,32 @@ CumShot cum = new CumShot("Example", 69, Target.GIRL, Location.MOUTH, Color.WHIT
 Sperm sperm = new Sperm("Example Sperm");
 ```
 
+### API Intergration [Maven]
+
+For maven please add these to your repositories and dependencies.
+```
+<repository>
+  <id>jitpack.io</id>
+  <url>https://jitpack.io</url>
+</repository>
+``` 
+```
+ <dependency>
+    <groupId>com.github.HyperSkys</groupId>
+    <artifactId>Baby-Maker</artifactId>
+    <version>2.0.0-RELEASE</version>
+</dependency>
+```
+
+### API Integergration [Gradle]
+
+For gradle add this to your repositories and dependencies.
+```
+maven { url 'https://jitpack.io' }
+```
+```
+implementation 'com.github.HyperSkys:Baby-Maker:2.0.0-RELEASE'
+```
+
 ## License
 This project is licensed under [Eclipse Public License](https://github.com/HyperSkys/Google-Kickstart/blob/main/LICENSE)
