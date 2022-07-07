@@ -1,4 +1,4 @@
-# Baby Maker [v2.0.0-RELEASE]
+# Baby Maker [v3.0.0-RELEASE]
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![GitHub](https://img.shields.io/github/languages/code-size/HyperSkys/Baby-Maker?color=cyan&label=Size&labelColor=000000&logo=GitHub&style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/HyperSkys/Baby-Maker?color=violet&logo=GitHub&labelColor=000000&style=for-the-badge)
@@ -8,7 +8,7 @@
 
 ### Download
 
-You can download the application by going to the main page of our GitHub root page and clicking on the latest release and downloading the file called **BabyMaker.exe** after that run it. You must have Java 8 installed on your computer for the application to work!
+You can download the application by going to the main page of our GitHub root page and clicking on the latest release and downloading the file called **dev.hyperskys.babymaker.BabyMaker.exe** after that run it. You must have Java 8 installed on your computer for the application to work!
 
 ### Discord
 
@@ -36,18 +36,18 @@ For maven please add these to your repositories and dependencies.
  <dependency>
     <groupId>com.github.HyperSkys</groupId>
     <artifactId>Baby-Maker</artifactId>
-    <version>2.0.0-RELEASE</version>
+    <version>3.0.0-RELEASE</version>
 </dependency>
 ```
 
-### API Integergration [Gradle]
+### API Integration [Gradle]
 
 For gradle add this to your repositories and dependencies.
 ```
 maven { url 'https://jitpack.io' }
 ```
 ```
-implementation 'com.github.HyperSkys:Baby-Maker:2.0.0-RELEASE'
+implementation 'com.github.HyperSkys:Baby-Maker:3.0.0-RELEASE'
 ```
 
 ## License
